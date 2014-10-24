@@ -53,3 +53,4 @@ group :no_ci do
   gem 'redcarpet'
   # gem 'rake' - this will interfere with `rake gemspec`
 end
+
